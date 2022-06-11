@@ -4,7 +4,7 @@
 
 This modified version of memory.dll will allow you to create cheats that will not require administrator privileges.
 
-This version only supports x64 platforms
+This version only supports x64 platforms.
 
 ## DOWNLOAD
 [MemoryNoAdmin.dll](https://github.com/tiptoppp/MemoryNoAdmin.dll/releases/tag/1)
