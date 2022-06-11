@@ -1,6 +1,6 @@
 
 ## DESCRIPTION
-This modified version of memory.dll will allow you to create cheats that will not require administrator privileges. ![MemoryNoAdmin80](https://user-images.githubusercontent.com/105000222/173207307-b43899b2-fdbe-4183-a284-5f5bb3c74fbe.png)
+This modified version of memory.dll will allow you to create cheats that will not require administrator privileges. ![MemoryNoAdmin24](https://user-images.githubusercontent.com/105000222/173207728-61739c6a-3159-4530-9fe1-6ecb029db2b7.png)
 
 This version only supports x64 platforms
 
