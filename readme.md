@@ -36,5 +36,3 @@ This version requires an x64 platform.
 > [![](https://img.youtube.com/vi/STPrGJ8eI8Y/0.jpg)](https://www.youtube.com/watch?v=STPrGJ8eI8Y)
 > [![](https://img.youtube.com/vi/w9m0gmcS82Y/0.jpg)](https://www.youtube.com/watch?v=w9m0gmcS82Y)
 > [![](https://img.youtube.com/vi/3u8bxtqCtcQ/0.jpg)](https://www.youtube.com/watch?v=3u8bxtqCtcQ)
-
-
