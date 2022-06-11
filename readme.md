@@ -12,7 +12,7 @@ This version only supports x64 platforms.
 ## CREDITS
 Thanks to [dr-NHA](https://github.com/dr-NHA) for giving me the idea.
 
-Thanks to me for making it
+Thanks to [me](https://discordapp.com/users/558009992473739289) for making it.
 
 > ## DESCRIPTION 
 > Create great PC game cheat trainers with ease!
