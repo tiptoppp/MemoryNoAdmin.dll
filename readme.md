@@ -9,7 +9,7 @@ This version only supports x64 platforms.
 ## DOWNLOAD
 [MemoryNoAdmin.dll](https://github.com/tiptoppp/MemoryNoAdmin.dll/releases/tag/1)
 
-## Credits
+## CREDITS
 Thanks to [dr-NHA](https://github.com/dr-NHA) for giving me the idea.
 
 > ## DESCRIPTION 
