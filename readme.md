@@ -1,13 +1,13 @@
 
 ## DESCRIPTION
-![MemoryNoAdmin80](https://user-images.githubusercontent.com/105000222/173207750-badd94c9-6a98-463b-830d-744862345f66.png)
+![iconx150](https://user-images.githubusercontent.com/105000222/173221804-8d513c14-9f0a-4b82-ae67-f8ae21abdb1a.png)
 
 This modified version of memory.dll will allow you to create cheats that will not require administrator privileges.
 
 This version only supports x64 platforms.
 
 ## DOWNLOAD
-![iconx150](https://user-images.githubusercontent.com/105000222/173221804-8d513c14-9f0a-4b82-ae67-f8ae21abdb1a.png)
+[MemoryNoAdmin](https://github.com/tiptoppp/MemoryNoAdmin.dll/releases/download/1/MemoryNoAdmin.dll)
 
 ## CREDITS
 Thanks to [dr-NHA](https://github.com/dr-NHA) for giving me the idea.
