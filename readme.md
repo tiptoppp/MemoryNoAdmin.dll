@@ -7,7 +7,7 @@ This modified version of memory.dll will allow you to create cheats that will no
 This version only supports x64 platforms.
 
 ## DOWNLOAD
-[MemoryNoAdmin.dll](https://github.com/tiptoppp/MemoryNoAdmin.dll/releases/tag/1)
+![iconx150](https://user-images.githubusercontent.com/105000222/173221804-8d513c14-9f0a-4b82-ae67-f8ae21abdb1a.png)
 
 ## CREDITS
 Thanks to [dr-NHA](https://github.com/dr-NHA) for giving me the idea.
