@@ -9,9 +9,6 @@ This version only supports x64 platforms.
 ## DOWNLOAD
 [MemoryNoAdmin](https://github.com/tiptoppp/MemoryNoAdmin.dll/releases/download/1/MemoryNoAdmin.dll)
 
-## CREDITS
-Thanks to [dr-NHA](https://github.com/dr-NHA) for giving me the idea.
-
 > ## DESCRIPTION 
 > Create great PC game cheat trainers with ease!
 > 
