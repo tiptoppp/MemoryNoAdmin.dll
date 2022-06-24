@@ -7,7 +7,7 @@ This modified version of memory.dll will allow you to create cheats that will no
 This version only supports x64 platforms.
 
 ## DOWNLOAD
-[MemoryNoAdmin](https://github.com/tiptoppp/MemoryNoAdmin.dll/releases/download/1/MemoryNoAdmin.dll)
+[MemoryNoAdmin](https://github.com/tiptoppp/MemoryNoAdmin.dll/releases/download/1.0/MemoryNoAdmin.dll)
 
 > ## DESCRIPTION 
 > Create great PC game cheat trainers with ease!
