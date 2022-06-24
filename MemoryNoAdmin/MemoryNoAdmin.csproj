@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>7.1</LangVersion>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>MemoryNoAdmin</PackageId>
+    <PackageProjectUrl>https://github.com/tiptoppp/MemoryNoAdmin.dll</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/tiptoppp/MemoryNoAdmin.dll</RepositoryUrl>
+    <Company>tiptop#9113</Company>
+    <Authors>tiptop#9113</Authors>
+    <Product>MemoryNoAdmin.dll</Product>
+    <Description>Modified version of memory.dll working without administrator privileges.</Description>
+    <PackageIcon>icon.png</PackageIcon>
+    <Version>1.0</Version>
+    <Platforms>x64;x86</Platforms>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyName>MemoryNoAdmin</AssemblyName>
+    <RootNamespace>MemoryNoAdmin</RootNamespace>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <NoWarn>1701;1702;1591</NoWarn>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x86'">
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
+    <PlatformTarget>x86</PlatformTarget>
+    <NoWarn>1701;1702;1591</NoWarn>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+  </PropertyGroup>
+
+	<ItemGroup>
+	  <None Include="icon.png">
+	    <Pack>True</Pack>
+	    <PackagePath>\</PackagePath>
+	  </None>
+    <None Include="build\**" Pack="True" PackagePath="build\" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Include="icon.ico" />
+	</ItemGroup>
+
+</Project>
